@@ -3,3 +3,6 @@ The notebook walks us through a typical workflow for solving data science compet
 
 This project is completely for fun..Explore the dataset :)
 
+![titanic-sinks-the-lobsters-in-the-kitchen-happiness-noise-56185928](https://user-images.githubusercontent.com/68724228/88470033-43fae380-cf15-11ea-8e2e-f8c1ebdb7b55.png)
+
+
